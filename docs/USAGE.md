@@ -1,5 +1,11 @@
 # Usage Guide / 使用说明
 
+Quick path for new users:
+- [QUICKSTART.md](QUICKSTART.md)
+
+新用户快速路径：
+- [QUICKSTART.md](QUICKSTART.md)
+
 ## Overview / 功能概览
 - This project only includes 2 features:
 - `Plugin entry unlock`.

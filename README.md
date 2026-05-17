@@ -8,6 +8,13 @@ A cross-platform (macOS + Windows) lightweight unlock tool for Codex plugin UI, 
 - Unlock plugin entry visibility/clickability
 - Force-enable install button under `App unavailable / 应用不可用 / 應用程式無法使用`
 
+## Fast Deploy / 快速部署
+- One-page quick guide:
+- [docs/QUICKSTART.md](docs/QUICKSTART.md)
+
+- 一页式快速部署指南：
+- [docs/QUICKSTART.md](docs/QUICKSTART.md)
+
 ## Scope And Safety Boundary / 功能与安全边界
 - No `codex_session_delete` dependency.
 - No listener on `57321`.
@@ -30,6 +37,7 @@ A cross-platform (macOS + Windows) lightweight unlock tool for Codex plugin UI, 
 ├── inject_plugin_unlock.py              # shared Python injector
 ├── plugin_unlock.js                     # injected UI patch script
 ├── docs/
+│   ├── QUICKSTART.md
 │   ├── USAGE.md
 │   ├── VERIFICATION.md
 │   └── TROUBLESHOOTING.md
@@ -47,6 +55,12 @@ A cross-platform (macOS + Windows) lightweight unlock tool for Codex plugin UI, 
 - 首次运行可访问 PyPI 安装 `websocket-client`。
 
 ## Quick Start / 一键启动
+
+First-time users should follow:
+- [docs/QUICKSTART.md](docs/QUICKSTART.md)
+
+首次使用建议直接看：
+- [docs/QUICKSTART.md](docs/QUICKSTART.md)
 
 ### macOS
 Double-click:
